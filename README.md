@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya101rxl&show_icons=true&locale=en" alt="aditya101rxl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya101rxl&" alt="aditya101rxl" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya101rxl&" alt="aditya101rxl" /></p> -->
 
 <h4 align="center">Thankyou</h4>
