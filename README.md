@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋, I'm Aditya -->
 
 <h1 align="center">Hi there 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Competitive Programmer & MERN Developer</h3>
+<h3 align="center">Competitive Programmer & A passionate MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya101rxl&label=Profile%20views&color=0e75b6&style=flat" alt="aditya101rxl" /> </p>
 
@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya101rxl&show_icons=true&locale=en" alt="aditya101rxl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya101rxl&" alt="aditya101rxl" /></p>
+
+<h4 align="center">Thankyou</h4>
