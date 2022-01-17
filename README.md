@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋, I'm Aditya -->
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" width="200px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> </p>
 
 <h1 align="center">Hi there 👋, I'm Aditya</h1>
 <h3 align="center">Competitive Programmer | MERN Developer</h3>
