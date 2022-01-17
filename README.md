@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya101rxl&label=Profile%20views&color=0e75b6&style=flat" alt="aditya101rxl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya101rxl" alt="aditya101rxl" /></a> </p>
-
 - 🔭 I’m currently working on [memegram(Social media to share memes.)](https://github.com/aditya101rxl/MiliGram_insta-clone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya101rxl](https://github.com/aditya101rxl)
