@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [memegram(Social media to share memes.)](https://github.com/aditya101rxl/MiliGram_insta-clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/aditya101rxl](https://github.com/aditya101rxl)
+- 👨‍💻 All of my projects are available at [my repositories.](https://github.com/aditya101rxl?tab=repositories)
 
 - 📫 How to reach me **aditya101rxl@gmail.com**
 
