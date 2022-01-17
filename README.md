@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **aditya101rxl@gmail.com**
 
+- 📑 [Resume](https://drive.google.com/file/d/17SnYSZXJyAtpsG3TyUaQNyvnYPg00I_A/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya101rxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya101rxl" height="30" width="40" /></a>
