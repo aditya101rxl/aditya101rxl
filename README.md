@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **aditya101rxl@gmail.com**
 
-- 📑 [Resume](https://drive.google.com/file/d/17SnYSZXJyAtpsG3TyUaQNyvnYPg00I_A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
