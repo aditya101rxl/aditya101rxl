@@ -3,11 +3,11 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> </p>
 
 <h1 align="center">Hi there 👋, I'm Aditya</h1>
-<h3 align="center">Competitive Programmer | Web Developer</h3>
+<h3 align="center">Competitive Programmer | Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya101rxl&label=Profile%20views&color=0e75b6&style=flat" alt="aditya101rxl" /> </p>
 
-- 🔭 I’m currently working as a SDE Intern at CODING NINJAS
+- 🔭 I’m a Research Engineer at the Centre for Development of Telematics (CDoT) (GoI).
 
 - 👨‍💻 All of my projects are available at [my repositories.](https://github.com/aditya101rxl?tab=repositories)
 
